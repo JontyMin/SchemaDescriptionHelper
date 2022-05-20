@@ -1,0 +1,2 @@
+# SchemaDescriptionHelper
+从实体注释中获取字段描述并更新到SQL Server数据字段描述中
